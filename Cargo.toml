@@ -1,0 +1,10 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["ganderzz <stolen3@gmail.com>"]
+edition = "2018"
+resolver = "2"
+
+[dependencies]
+bevy = "0.6"
+rand = "0.7.3"
